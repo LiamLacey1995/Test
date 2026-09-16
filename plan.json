@@ -159,15 +159,15 @@
           {
             "id": "item_mu40d2g7asrr4",
             "type": "shape",
-            "x": 1204,
-            "y": 297,
+            "x": 696,
+            "y": 560,
             "w": 160,
             "h": 100,
             "rotation": 0,
             "label": "New shape",
             "shape": "rect",
             "background_color": "sticky",
-            "z": 3
+            "z": 4
           },
           {
             "id": "item_mu40d3qqcn0c3",
@@ -180,11 +180,11 @@
             "label": "New shape",
             "shape": "rect",
             "background_color": "sticky",
-            "z": 4
+            "z": 3
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:16.274Z",
+        "updated_at": "2026-09-16T11:19:18.466Z",
         "preview_placeholder": "board preview"
       }
     ],
