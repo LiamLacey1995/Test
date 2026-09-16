@@ -185,14 +185,14 @@
           {
             "id": "item_mu40d9gihus6r",
             "type": "swatch",
-            "x": 987,
-            "y": 440,
+            "x": 888,
+            "y": 328,
             "w": 88,
             "h": 64,
             "rotation": 0,
             "label": "Rust red",
             "color": "#D95D4F",
-            "z": 5
+            "z": 7
           },
           {
             "id": "item_mu40db0fj9551",
@@ -204,7 +204,7 @@
             "rotation": 0,
             "label": "Rust red",
             "color": "#D95D4F",
-            "z": 6
+            "z": 5
           },
           {
             "id": "item_mu40dcahljnul",
@@ -216,11 +216,11 @@
             "rotation": 0,
             "label": "Rust red",
             "color": "#D95D4F",
-            "z": 7
+            "z": 6
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:27.353Z",
+        "updated_at": "2026-09-16T11:19:29.111Z",
         "preview_placeholder": "board preview"
       }
     ],
