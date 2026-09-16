@@ -155,10 +155,23 @@
             "shape": "rect",
             "background_color": "sticky",
             "z": 2
+          },
+          {
+            "id": "item_mu40d2g7asrr4",
+            "type": "shape",
+            "x": 1204,
+            "y": 297,
+            "w": 160,
+            "h": 100,
+            "rotation": 0,
+            "label": "New shape",
+            "shape": "rect",
+            "background_color": "sticky",
+            "z": 3
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:12.787Z",
+        "updated_at": "2026-09-16T11:19:14.599Z",
         "preview_placeholder": "board preview"
       }
     ],
