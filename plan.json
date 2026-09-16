@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "state": {
+    "version": 1,
+    "project": {
+      "id": "project-test",
+      "name": "Test",
+      "color": "#d4603f",
+      "seats": 6
+    },
+    "projects": [
+      {
+        "id": "project-test",
+        "name": "Test",
+        "color": "#d4603f",
+        "seats": 6
+      }
+    ],
+    "disciplines": [
+      {
+        "id": "code",
+        "label": "Code",
+        "color": "blue"
+      },
+      {
+        "id": "art",
+        "label": "Art",
+        "color": "amber"
+      },
+      {
+        "id": "tech-art",
+        "label": "Tech art",
+        "color": "pink"
+      },
+      {
+        "id": "audio",
+        "label": "Audio",
+        "color": "purple"
+      },
+      {
+        "id": "design",
+        "label": "Design",
+        "color": "neutral"
+      }
+    ],
+    "tags": [],
+    "gates": [
+      {
+        "id": "gate-prototype",
+        "name": "Prototype",
+        "date": "2026-10-16",
+        "status": "current",
+        "weight": 2,
+        "checklist": []
+      },
+      {
+        "id": "gate-vertical-slice",
+        "name": "Vertical Slice",
+        "date": "2026-12-15",
+        "status": "future",
+        "weight": 3,
+        "checklist": []
+      },
+      {
+        "id": "gate-alpha",
+        "name": "Alpha",
+        "date": "2027-02-13",
+        "status": "future",
+        "weight": 3,
+        "checklist": []
+      },
+      {
+        "id": "gate-beta",
+        "name": "Beta",
+        "date": "2027-04-14",
+        "status": "future",
+        "weight": 2,
+        "checklist": []
+      },
+      {
+        "id": "gate-gold",
+        "name": "Gold",
+        "date": "2027-06-13",
+        "status": "future",
+        "weight": 1,
+        "checklist": []
+      }
+    ],
+    "sprints": [
+      {
+        "id": "sprint-1",
+        "name": "Sprint 1",
+        "gate_id": "gate-prototype",
+        "start": "2026-09-16",
+        "end": "2026-09-30",
+        "status": "current",
+        "card_ids": []
+      }
+    ],
+    "cards": [],
+    "assets": [],
+    "builds": [],
+    "boards": [],
+    "bugs": [],
+    "members": [
+      {
+        "id": "mem-3f74422c-40a3-4d99-9e8e-5165cc235820",
+        "github_id": "221529312",
+        "name": "LiamLacey1995",
+        "role": "owner",
+        "disciplines": [
+          "design"
+        ],
+        "color": "#d4603f",
+        "initials": "L",
+        "capacity": 6
+      }
+    ],
+    "agent_sessions": [],
+    "agent_policies": [],
+    "integration_settings": {
+      "discord": {
+        "connected": false,
+        "alerts": [],
+        "inbound_bug": false
+      },
+      "github": {
+        "connected": true,
+        "repo": "LiamLacey1995/Test"
+      },
+      "mcp": {
+        "live": false,
+        "url": "",
+        "token_hint": "",
+        "clients": []
+      },
+      "standing_orders": "",
+      "pip_paused": false
+    },
+    "pip_entries": [],
+    "playtest": {}
+  }
+}
