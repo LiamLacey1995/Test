@@ -193,10 +193,22 @@
             "text": "Linked image from static.vecteezy.com",
             "src_url": "https://static.vecteezy.com/system/resources/thumbnails/022/721/558/small_2x/google-logo-for-search-site-free-png.png",
             "z": 5
+          },
+          {
+            "id": "item_mu40eixqu7qfg",
+            "type": "card-ref",
+            "x": 1089,
+            "y": 79,
+            "w": 200,
+            "h": 140,
+            "rotation": -1.301447716563912,
+            "text": "asdasd",
+            "card_id": "ART-1",
+            "z": 6
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:20:10.467Z",
+        "updated_at": "2026-09-16T11:20:22.622Z",
         "preview_placeholder": "board preview"
       }
     ],
