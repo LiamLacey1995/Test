@@ -41,6 +41,11 @@
         "id": "design",
         "label": "Design",
         "color": "neutral"
+      },
+      {
+        "id": "vfx",
+        "label": "vfx",
+        "color": "amber"
       }
     ],
     "tags": [],
