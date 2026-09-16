@@ -109,7 +109,8 @@
         "blocks": [],
         "order": 0,
         "created_at": "2026-09-16T11:16:37.268Z",
-        "comments": []
+        "comments": [],
+        "color": "red"
       }
     ],
     "assets": [],
