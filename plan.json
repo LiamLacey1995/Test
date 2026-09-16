@@ -142,10 +142,23 @@
             "label": "Untitled frame",
             "background_color": "sticky",
             "z": 0
+          },
+          {
+            "id": "item_mu40d11v88lyl",
+            "type": "shape",
+            "x": 1107,
+            "y": 262,
+            "w": 160,
+            "h": 100,
+            "rotation": 0,
+            "label": "New shape",
+            "shape": "rect",
+            "background_color": "sticky",
+            "z": 2
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:09.587Z",
+        "updated_at": "2026-09-16T11:19:12.787Z",
         "preview_placeholder": "board preview"
       }
     ],
