@@ -130,10 +130,22 @@
             "rotation": 0,
             "text": "dsafas",
             "z": 0
+          },
+          {
+            "id": "item_mu40cxb35dzmh",
+            "type": "frame",
+            "x": 300,
+            "y": 89,
+            "w": 527,
+            "h": 375,
+            "rotation": 0,
+            "label": "Untitled frame",
+            "background_color": "sticky",
+            "z": 1
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:05.826Z",
+        "updated_at": "2026-09-16T11:19:07.935Z",
         "preview_placeholder": "board preview"
       }
     ],
