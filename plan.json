@@ -119,9 +119,21 @@
       {
         "id": "board_mu40can11v1ek",
         "name": "Visual direction",
-        "items": [],
+        "items": [
+          {
+            "id": "item_mu40cvoi3i22g",
+            "type": "note",
+            "x": 447,
+            "y": 191,
+            "w": 170,
+            "h": 120,
+            "rotation": 0,
+            "text": "dsafas",
+            "z": 0
+          }
+        ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:18:38.557Z",
+        "updated_at": "2026-09-16T11:19:05.826Z",
         "preview_placeholder": "board preview"
       }
     ],
