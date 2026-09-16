@@ -181,10 +181,22 @@
             "shape": "rect",
             "background_color": "sticky",
             "z": 4
+          },
+          {
+            "id": "item_mu40e5qbrgzk0",
+            "type": "image",
+            "x": 703,
+            "y": 427,
+            "w": 200,
+            "h": 140,
+            "rotation": 0.9645351823387203,
+            "text": "Linked image from static.vecteezy.com",
+            "src_url": "https://static.vecteezy.com/system/resources/thumbnails/022/721/558/small_2x/google-logo-for-search-site-free-png.png",
+            "z": 5
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:35.088Z",
+        "updated_at": "2026-09-16T11:20:05.507Z",
         "preview_placeholder": "board preview"
       }
     ],
