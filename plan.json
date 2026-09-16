@@ -181,22 +181,10 @@
             "shape": "rect",
             "background_color": "sticky",
             "z": 4
-          },
-          {
-            "id": "item_mu40d9gihus6r",
-            "type": "swatch",
-            "x": 888,
-            "y": 328,
-            "w": 88,
-            "h": 64,
-            "rotation": 0,
-            "label": "Rust red",
-            "color": "#D95D4F",
-            "z": 5
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:32.618Z",
+        "updated_at": "2026-09-16T11:19:35.088Z",
         "preview_placeholder": "board preview"
       }
     ],
