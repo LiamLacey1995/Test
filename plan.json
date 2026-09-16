@@ -115,7 +115,16 @@
     ],
     "assets": [],
     "builds": [],
-    "boards": [],
+    "boards": [
+      {
+        "id": "board_mu40can11v1ek",
+        "name": "Visual direction",
+        "items": [],
+        "connectors": [],
+        "updated_at": "2026-09-16T11:18:38.557Z",
+        "preview_placeholder": "board preview"
+      }
+    ],
     "bugs": [],
     "members": [
       {
