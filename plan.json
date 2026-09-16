@@ -197,8 +197,8 @@
           {
             "id": "item_mu40eixqu7qfg",
             "type": "card-ref",
-            "x": 1089,
-            "y": 79,
+            "x": -30,
+            "y": 98,
             "w": 200,
             "h": 140,
             "rotation": -1.301447716563912,
@@ -208,7 +208,7 @@
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:20:22.622Z",
+        "updated_at": "2026-09-16T11:20:25.863Z",
         "preview_placeholder": "board preview"
       }
     ],
