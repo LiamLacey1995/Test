@@ -205,10 +205,22 @@
             "label": "Rust red",
             "color": "#D95D4F",
             "z": 6
+          },
+          {
+            "id": "item_mu40dcahljnul",
+            "type": "swatch",
+            "x": 1100,
+            "y": 511,
+            "w": 88,
+            "h": 64,
+            "rotation": 0,
+            "label": "Rust red",
+            "color": "#D95D4F",
+            "z": 7
           }
         ],
         "connectors": [],
-        "updated_at": "2026-09-16T11:19:25.695Z",
+        "updated_at": "2026-09-16T11:19:27.353Z",
         "preview_placeholder": "board preview"
       }
     ],
